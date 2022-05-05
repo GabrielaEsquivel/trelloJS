@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/GabrielaEsquivel/trelloJS/issues"
   },
-  "homepage": "https://github.com/GabrielaEsquivel/trelloJS#readme"
+  "homepage": "https://github.com/GabrielaEsquivel/trelloJS#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
 }
